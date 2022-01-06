@@ -75,3 +75,63 @@ body{
     background-color: rgb(132, 178, 216);
     margin: 20px;
 }
+.section-thire-image img{
+    width: 90%;
+}
+.section-thire{
+    padding-top: 120px;
+}
+.section-thire-image{
+    padding-left: 200px;
+}
+.section-thire-second-div{
+    padding-right: 300px;
+}
+.my-mission-tow{
+    font-size: 50px;
+}
+.button-2{
+    text-decoration: none;
+    background-color: rgb(230, 111, 68);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.four-section-images img{
+    width: 75%;
+}
+.section-four{
+    padding-top: 150px;
+}
+.service{
+    font-size: 50px;
+}
+.section-four-div{
+    padding-left: 250px;
+}
+.button-3{
+    text-decoration: none;
+    background-color: rgb(230, 111, 68);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.section-five{
+    padding-top: 200px;
+}
+.section-five-div{
+    padding-right: 7%;
+}
+.corona{
+    font-size: 50px;
+}
+.button-4{
+    text-decoration: none;
+    background-color: rgb(230, 111, 68);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+}
